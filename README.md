@@ -19,7 +19,7 @@ This service must return to a controller that generates an html page with this s
     
     etc.
 
-## Nice to have
+## Features
 
 - Buttons in the carousel so the user can go to the next image / previous image by clicking the buttons
 
@@ -34,20 +34,3 @@ This service must return to a controller that generates an html page with this s
 - Carousel can be moved by touch events
 
 
-## Assumptions
-
-- You can use whatever library you need
-
-- Horizontal images carousel is something similar to this
-
-![Horizontal carousel](/img/heroH.png)
-
-- Vertical images carousel is something similar to this
-
-![Vertical carousel](/img/heroV.png)
-
-# After the test
-
-When you finish the test, please make a fork of this repository and then make a pull request with your code. 
- 
-Thanks!
